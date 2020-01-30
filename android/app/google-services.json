@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1030124925561",
+    "firebase_url": "https://login-910db.firebaseio.com",
+    "project_id": "login-910db",
+    "storage_bucket": "login-910db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030124925561:android:09a7a5feb4f3cce883daa8",
+        "android_client_info": {
+          "package_name": "com.example.login_ekrani_ornek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030124925561-qr1frd3duo4embifegb95cmci2gt9u4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFjlwUueSs637PFjgwIQAlOpMdMALjRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030124925561-qr1frd3duo4embifegb95cmci2gt9u4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
